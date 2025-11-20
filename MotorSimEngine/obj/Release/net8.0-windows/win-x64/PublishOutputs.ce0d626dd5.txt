@@ -1,0 +1,7 @@
+D:\Projeler\VisaulProjects\Motor_Similasyonu\publish\MotorSimEngine.exe
+D:\Projeler\VisaulProjects\Motor_Similasyonu\publish\MotorSimEngine.dll
+D:\Projeler\VisaulProjects\Motor_Similasyonu\publish\MotorSimEngine.deps.json
+D:\Projeler\VisaulProjects\Motor_Similasyonu\publish\MotorSimEngine.runtimeconfig.json
+D:\Projeler\VisaulProjects\Motor_Similasyonu\publish\MotorSimEngine.pdb
+D:\Projeler\VisaulProjects\Motor_Similasyonu\publish\WinForms.DataVisualization.Utilities.dll
+D:\Projeler\VisaulProjects\Motor_Similasyonu\publish\WinForms.DataVisualization.dll
